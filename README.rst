@@ -59,7 +59,7 @@ accelerators by leveraging the OpenCL_ language and concepts.
 
 OpenCL_ SYCL_ is developed inside the Khronos_ OpenCL_ SYCL_ committee and
 thus, for more information on SYCL_, look at
-http://www.khronos.org/opencl/sycl
+https://www.khronos.org/sycl
 
 
 Why you could use SYCL
@@ -260,7 +260,7 @@ By reverse chronological order:
   OpenCL Working Group Member). March 19, 2014. Video.
 
 - `SYCL for OpenCL
-  <http://www.khronos.org/assets/uploads/developers/library/2014-gdc/SYCL-for-OpenCL-GDC-Mar14.pdf>`_,
+  <https://www.khronos.org/assets/uploads/developers/library/2014-gdc/SYCL-for-OpenCL-GDC-Mar14.pdf>`_,
   Andrew Richards (CEO Codeplay & Chair SYCL Working group). March 19,
   2014, GDC 2014.
 
